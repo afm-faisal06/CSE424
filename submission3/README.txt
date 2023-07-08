@@ -4,6 +4,7 @@ https://youtu.be/2H8CsV42eHI
 Two public links to the Concept Map (anyone on the internet can view without login):
 PDF: 
 Native/original format: 
+https://github.com/afm-faisal06/CSE424/blob/main/submission3/Concept%20map%20public%20link.txt
 
 Name, Author, Edition, year, and publisher of the Book:
 Speech and Language Processing
