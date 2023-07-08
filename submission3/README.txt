@@ -9,7 +9,7 @@ https://github.com/afm-faisal06/CSE424/blob/main/submission3/Concept%20map%20pub
 
 Name, Author, Edition, year, and publisher of the Book:
 Speech and Language Processing
-Dan Jurafsky and James H. Martin
+Jurafsky
 3rd edition
 2023
 Pearson
