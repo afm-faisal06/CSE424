@@ -7,6 +7,9 @@ https://youtu.be/XkpQlYtVJzw
 Paper title:
 Investigating methods to combine textual and visual information, such as text and image data from social media, for more accurate sentiment analysis and emotion detection
 
+Paper presentation (anyone can view without login):
+https://github.com/afm-faisal06/CSE424/blob/main/submission5/2nd%20draft.pdf
+
 Group Number:
 8
 
