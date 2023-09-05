@@ -5,25 +5,25 @@ Unlisted YouTube video:
 https://youtu.be/8uMqeZ4FoUg
 
 Conference submitted paper / paper submission / login Link:
-https://easy....
+https://cmt3.research.microsoft.com/PAKDD2024/Submission/Index
 
 Paper title:
-Investigating methods to combine textual and visual information, such as text and image data from social media, for more accurate sentiment analysis and emotion detection
+Enhancing Sentiment Analysis with Multimodal Text and Image Fusion
 
 Paper presentation (anyone can view without login):
 https://docs.google.com/presentation/d/1hwG-WOB6Hppzq3OA2FaJ5k3VXwkSzgvPGOlv_FJWnWA/edit?usp=sharing 
 
 Paper submission date (to workshop/conference):
-25 October 1999
+5 September, 2023
 
 Paper submission ID: (received) from conference/workshop
-1341234
+6
 
 Conference Name:
-2005 International Conference on Quantum Pattern Recognition for Natural Language Processing: Techniques and Practices
+Pacific-Asia Conference on Knowledge Discovery and Data Mining
 
 Conference URL:
-http://confsite/...
+https://pakdd2024.org/
 
 Group Number:
 8
